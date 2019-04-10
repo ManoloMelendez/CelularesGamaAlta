@@ -1,0 +1,18 @@
+table{
+font-family:cursive;
+border-collapse:collapse;
+background:rgba(0,0,0,0.5);
+border:transparent;
+-webkit-
+}
+#caracteristicas th{
+padding: 30px 10px 30px 10px;
+background:#008080;
+color:#FFFFFF;
+-webkit-
+}
+#caracteristicas td{
+padding: 20px;
+color:#FFFFFF;
+-webkit-
+}
